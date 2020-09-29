@@ -4,7 +4,9 @@
 [![Instagram Follow](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adil_kizhakkethil/)
 [![Youtube Follow](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC3xDLg54fpLU3TPQAxQHApQ)
 
-- 🔭 I’m currently working on HTML,CSS, Home Automation
+- 🔭 I’m currently working on Home Automations, HA, Docker
+- 💬 Making Cost-Effective Chips for Smart Homes
+- ⚡ Fluent with Arduino, ESP8266, Python, IoTs
 - 🌱 I’m currently learning Everything
 - 👯 I’m looking to collaborate on ML
 - 🤔 I’m looking for help with ML
@@ -15,7 +17,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Adil's Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[![Spotify](https://novatorem.adil-mohammedk.vercel.app/api/spotify)](https://open.spotify.com/userswyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with Me:
 
@@ -47,6 +49,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [How to use Firestick in Brahmaputra](https://www.youtube.com/watch?v=1ZMMIwnTK7M)
 <!-- YOUTUBE:END -->
 
@@ -62,8 +65,12 @@
 
 <details>
   <summary>⚡ Github Stats</summary>
-<img align="left" alt="Adil-MohammedK's Github Stats" src="https:/github-readme-stats.adil-mohammedk.vercel.app/api?username=Adil-MohammedK&show_icons=true&hide_border=true" />
+<img align="left" alt="Adil-MohammedK's Github Stats" src="https://github-readme-stats.adil-mohammedk.vercel.app/api?username=Adil-MohammedK&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
 </details>
+
+---
+
+[![Top Langs](https://github-readme-stats.adil-mohammedk.vercel.app/api/top-langs/?username=Adil-MohammedK&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/amark14912
