@@ -47,6 +47,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to use Firestick in Brahmaputra](https://www.youtube.com/watch?v=1ZMMIwnTK7M)
 <!-- YOUTUBE:END -->
 
 ---
@@ -54,6 +55,7 @@
 <details>
   <summary>⚡ Recent Github Activity</summary>
   <!--START_SECTION:activity-->
+1. 🗣 Commented on [#28602](https://github.com/home-assistant/core/issues/28602) in [home-assistant/core](https://github.com/home-assistant/core)
   <!--END_SECTION:activity-->
 
 </details>
