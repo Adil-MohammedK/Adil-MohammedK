@@ -47,6 +47,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to use Firestick in Brahmaputra](https://www.youtube.com/watch?v=1ZMMIwnTK7M)
 <!-- YOUTUBE:END -->
 
 ---
