@@ -15,7 +15,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem.adil-mohammedk.vercel.app/api/spotify-playing"> alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/amark14912?si=tE6rJEKHQmih4Up17LR4aw)
+[<img src="https://novatorem.adil-mohammedk.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/amark14912?si=tE6rJEKHQmih4Up17LR4aw)
 
 ### Connect with Me:
 
@@ -60,7 +60,7 @@
 
 <details>
   <summary>⚡ Github Stats</summary>
-<img align="left" alt="codeSTACKr's Github Stats" src="https:/github-readme-stats.adil-mohammedk.vercel.app/api?username=Adil-MohammedK&show_icons=true&hide_border=true" />
+<img align="left" alt="Adil-MohammedK's Github Stats" src="https:/github-readme-stats.adil-mohammedk.vercel.app/api?username=Adil-MohammedK&show_icons=true&hide_border=true" />
 </details>
 
 [website]: https://codeSTACKr.com
