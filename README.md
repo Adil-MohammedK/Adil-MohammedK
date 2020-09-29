@@ -15,7 +15,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem.adil-mohammedk.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/amark14912?si=tE6rJEKHQmih4Up17LR4aw)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Adil's Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with Me:
 
