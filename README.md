@@ -17,7 +17,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.adil-mohammedk.vercel.app/api/spotify)](https://open.spotify.com/userswyqyimdc12jajde4vpwd2x1b)
+[![Spotify](https://novatorem.adil-mohammedk.vercel.app/api/spotify)](https://open.spotify.com/user/amark14912?si=SgeR8tRjQkSxYhqmOrH_pg)
 
 ### Connect with Me:
 
