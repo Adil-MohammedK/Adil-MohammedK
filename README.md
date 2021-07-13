@@ -55,7 +55,7 @@
 - [Raspberry Pi Prototyping and IoTs | Day 2](https://youtu.be/32koWwLy9_0)
 - [Electronics Prototyping with Arduino, ESP8266 | Day 1](https://www.youtube.com/watch?v=BtrsFcH2gKg&t=284s)
 - [Electronics Prototyping with Arduino, ESP8266 | Day 2](https://www.youtube.com/watch?v=36rADp0Hd5k&t=3232s)
-- [https://www.youtube.com/watch?v=36rADp0Hd5k&t=3232s](https://www.youtube.com/watch?v=KapYJEBXdgQ&t=110s)
+- [Electronics Prototyping with Arduino, ESP8266 | Day 3](https://www.youtube.com/watch?v=KapYJEBXdgQ&t=110s)
 - [Techceleration - The story of tech advancements in a great crisis](https://www.youtube.com/watch?v=NxC0EarMAyQ&t=65s)
 ---
 
