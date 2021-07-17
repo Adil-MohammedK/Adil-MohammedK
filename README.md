@@ -46,6 +46,25 @@
 
 ---
 
+<details>
+  <summary>⚡ Recent Github Activity</summary>
+  <!--START_SECTION:activity-->
+1. 🗣 Commented on [#28602](https://github.com/home-assistant/core/issues/28602) in [home-assistant/core](https://github.com/home-assistant/core)
+  <!--END_SECTION:activity-->
+  
+</details>
+
+---
+
+### ⚡ Github Stats
+<img align="left" alt="Adil-MohammedK's Github Stats" src="https://github-readme-stats.adil-mohammedk.vercel.app/api?username=Adil-MohammedK&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />  
+
+[![Top Langs](https://github-readme-stats.adil-mohammedk.vercel.app/api/top-langs/?username=Adil-MohammedK&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+
+<br></br>
+
+---
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
@@ -58,23 +77,6 @@
 - [Electronics Prototyping with Arduino, ESP8266 | Day 3](https://www.youtube.com/watch?v=KapYJEBXdgQ&t=110s)
 - [Techceleration - The story of tech advancements in a great crisis](https://www.youtube.com/watch?v=NxC0EarMAyQ&t=65s)
 ---
-
-<details>
-  <summary>⚡ Recent Github Activity</summary>
-  <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28602](https://github.com/home-assistant/core/issues/28602) in [home-assistant/core](https://github.com/home-assistant/core)
-  <!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>⚡ Github Stats</summary>
-<img align="left" alt="Adil-MohammedK's Github Stats" src="https://github-readme-stats.adil-mohammedk.vercel.app/api?username=Adil-MohammedK&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
-</details>
-
----
-
-[![Top Langs](https://github-readme-stats.adil-mohammedk.vercel.app/api/top-langs/?username=Adil-MohammedK&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/amark14912
