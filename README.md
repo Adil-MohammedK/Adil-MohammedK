@@ -5,8 +5,9 @@
 [![Youtube Follow](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC3xDLg54fpLU3TPQAxQHApQ)
 
 - 🔭 I’m currently working on Home Automations, HA, Docker
+- 🚗 Working on Autonomous Cars and beyond (FueledbyAutonomy)
 - 💬 Making Cost-Effective Chips for Smart Homes
-- ⚡ Fluent with Arduino, ESP8266, Python, IoTs
+- ⚡ Fluent with Arduino, ESP8266, Python, IoTs, 
 - 🌱 I’m currently learning Everything
 - 👯 I’m looking to collaborate on ML
 - 🤔 I’m looking for help with ML
