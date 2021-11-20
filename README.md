@@ -50,7 +50,7 @@
 <details>
   <summary>⚡ Recent Github Activity</summary>
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28602](https://github.com/home-assistant/core/issues/28602) in [home-assistant/core](https://github.com/home-assistant/core)
+1. ❗️ Opened issue [#379](https://github.com/Apple-Music-Electron/Apple-Music-Electron/issues/379) in [Apple-Music-Electron/Apple-Music-Electron](https://github.com/Apple-Music-Electron/Apple-Music-Electron)
   <!--END_SECTION:activity-->
   
 </details>
