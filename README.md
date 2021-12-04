@@ -16,10 +16,10 @@
 - 😄 Pronouns: Aadil
 - ⚡ Fun fact: From God's own Country
 
-### Spotify Playing 🎧
+<!-- ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.adil-mohammedk.vercel.app/api/spotify)](https://open.spotify.com/user/amark14912?si=SgeR8tRjQkSxYhqmOrH_pg)
-
+ -->
 ### Connect with Me:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
